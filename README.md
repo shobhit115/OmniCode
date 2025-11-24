@@ -2,6 +2,8 @@
 
 OmniCode is a robust, all-in-one web application for generating linear barcodes (1D) and QR codes (2D). Built with Python and Streamlit, it offers real-time previews, extensive customization options, and high-resolution downloads.
 
+## Link --> https://omnicode.streamlit.app/
+
 ## ✨ Features
 
 - Dual Generation Modes:
